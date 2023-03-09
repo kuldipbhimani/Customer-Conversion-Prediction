@@ -50,6 +50,6 @@ We've get:
 
 #### Our company can run cost effective and time redusing tele marketing campaign by firstly prioritize potential client from our predicted output and utilse human resourses according to it.
 
-![ROC](https://user-images.githubusercontent.com/108011984/223997228-a643c99c-a52d-4159-8ec1-4a8f64fc0366.png)
 
+![ROC](https://user-images.githubusercontent.com/108011984/223997228-a643c99c-a52d-4159-8ec1-4a8f64fc0366.png)
 
